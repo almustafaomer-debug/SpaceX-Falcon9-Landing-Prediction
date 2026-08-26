@@ -1,0 +1,266 @@
+Flight No.,Launch site,Date,Time,Version Booster,Payload,Payload mass,Orbit,Customer,Launch outcome,Booster landing
+418,Cape Canaveral,"January 4, 2025",01:27,F9B5,Thuraya 4-NGS,"5,000 kg",GTO,Thuraya,Success,Success (
+419,Cape Canaveral,"January 6, 2025",20:43,F9B5,Starlink,"~17,500 kg",LEO,SpaceX,Success,Success (
+420,Kennedy,"January 8, 2025",15:27,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+421,Vandenberg,"January 10, 2025",03:53,F9B5,Starshield,U,LEO,NRO,Success,Success (
+422,Cape Canaveral,"January 10, 2025",19:11,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+423,Cape Canaveral,"January 13, 2025",16:47,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+424,Vandenberg,"January 14, 2025",19:09,F9B5,Transporter-12,"2,000 kg",SSO,Various,Success,Success (
+425,Kennedy,"January 15, 2025",06:11,F9B5,Blue Ghost Mission 1,"2,517 kg",TLI,Firefly Aerospace,Success,Success (
+426,Kennedy,"January 21, 2025",05:24,F9B5,Starlink,"~15,300 kg",LEO,SpaceX,Success,Success (
+427,Vandenberg,"January 21, 2025",15:45,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+428,Vandenberg,"January 24, 2025",14:07,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+429,Cape Canaveral,"January 27, 2025",22:05,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+430,Kennedy,"January 30, 2025",01:34,F9B5,Spainsat NG,"6,100 kg",GTO,Hisdesat,Success,No attempt
+431,Vandenberg,"February 1, 2025",23:02,F9B5,Starlink,"~16,700 kg",LEO,SpaceX,Success,Success (
+432,Cape Canaveral,"February 4, 2025",10:15,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+433,Kennedy,"February 4, 2025",23:13,F9B5,WorldView Legion,"1,500 kg",LEO,Maxar Technologies,Success,Success (
+434,Cape Canaveral,"February 8, 2025",19:18,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+435,Vandenberg,"February 11, 2025",02:09,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+436,Cape Canaveral,"February 11, 2025",18:53,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+437,Cape Canaveral,"February 15, 2025",06:14,F9B5B1067,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+438,Cape Canaveral,"February 18, 2025",23:21,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+439,Cape Canaveral,"February 21, 2025",15:19,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+440,Vandenberg,"February 23, 2025",01:38,F9B5,Starlink,"~16,800 kg",LEO,SpaceX,Success,Success (
+441,Kennedy,"February 27, 2025",00:16,F9B5,IM-2,U,TLI,NASA,Success,Success (
+442,Cape Canaveral,"February 27, 2025",03:34,F9B5‑[,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+443,Cape Canaveral,"March 3, 2025",02:24,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Failure (
+444,Vandenberg,"March 12, 2025",03:10,F9B5,SPHEREx,758 kg,SSO,NASA,Success,Success (
+445,Cape Canaveral,"March 13, 2025",02:35,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+446,Kennedy,"March 14, 2025",23:03,F9B5,Crew-10,"~13,000 kg",LEO,NASA,Success,Success (
+447,Vandenberg,"March 15, 2025",06:43,F9B5,Transporter-13,U,SSO,Various,Success,Success (
+448,Cape Canaveral,"March 15, 2025",11:35,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+449,Cape Canaveral,"March 18, 2025",19:57,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+450,Vandenberg,"March 21, 2025",06:49,F9B5,NROL-57,U,LEO,NRO,Success,Success (
+451,Cape Canaveral,"March 24, 2025",17:48,F9B5,NROL-69,U,LEO,USSF,Success,Success (
+452,Vandenberg,"March 26, 2025",22:11,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+453,Cape Canaveral,"March 31, 2025",19:52,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+454,Kennedy,"April 1, 2025",01:46,F9B5,Fram2,"~13,000 kg",Polar,Chun Wang,Success,Success (
+455,Vandenberg,"April 4, 2025",01:02,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+456,Cape Canaveral,"April 6, 2025",03:07,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+457,Vandenberg,"April 7, 2025",23:06,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+458,Vandenberg,"April 12, 2025",12:25,F9B5,NROL-192,U,LEO,NRO,Success,Success (
+459,Kennedy,"April 13, 2025",00:53,F9B5,Starlink,"~16,500 kg",LEO,SpaceX,Success,Success (
+460,Cape Canaveral,"April 14, 2025",04:00,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+461,Vandenberg,"April 20, 2025",12:29,F9B5,NROL-145,U,LEO,NRO,Success,Success (
+462,Kennedy,"April 21, 2025",08:15,F9B5B1092,SpaceX CRS-32,"3,021 kg",LEO,NASA,Success,Success (
+463,Cape Canaveral,"April 22, 2025",00:48,F9B5,Bandwagon-3,U,LEO,Republic of Korea Armed Forces,Success,Success (
+464,Cape Canaveral,"April 25, 2025",01:52,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+465,Cape Canaveral,"April 28, 2025",02:09,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+466,Vandenberg,"April 28, 2025",20:42,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+467,Kennedy,"April 29, 2025",02:34,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+468,Cape Canaveral,"May 2, 2025",01:51,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+469,Kennedy,"May 4, 2025",08:54,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+470,Cape Canaveral,"May 7, 2025",01:17,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+471,Vandenberg,"May 10, 2025",00:19,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+472,Cape Canaveral,"May 10, 2025",06:28,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+473,Vandenberg,"May 13, 2025",01:15,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+474,Kennedy,"May 13, 2025",05:02,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+475,Cape Canaveral,"May 14, 2025",16:38,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+476,Vandenberg,"May 16, 2025",13:43,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+477,Cape Canaveral,"May 21, 2025",03:19,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+478,Vandenberg,"May 23, 2025",22:32,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+479,Cape Canaveral,"May 24, 2025",17:19,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+480,Vandenberg,"May 27, 2025",16:57,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+481,Kennedy,"May 28, 2025",13:30,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+482,Cape Canaveral,"May 30, 2025",17:37,F9B5,GPS III,"4,350 kg",MEO,USSF,Success,Success (
+483,Vandenberg,"May 31, 2025",20:10,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+484,Cape Canaveral,"June 3, 2025",04:43,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+485,Vandenberg,"June 4, 2025",23:40,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+486,Cape Canaveral,"June 7, 2025",04:54,F9B5,SXM-10,"6,400 kg",GTO,SiriusXM,Success,Success (
+487,Vandenberg,"June 8, 2025",14:20,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+488,Cape Canaveral,"June 10, 2025",13:05,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+489,Vandenberg,"June 13, 2025",01:54,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+490,Cape Canaveral,"June 13, 2025",15:29,F9B5,Starlink,"~17,100 kg",LEO,SpaceX,Success,Success (
+491,Vandenberg,"June 17, 2025",03:36,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+492,Cape Canaveral,"June 18, 2025",05:55,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+493,Cape Canaveral,"June 23, 2025",05:58,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+494,Vandenberg,"June 23, 2025",21:25,F9B5,Transporter-14,U,SSO,Various,Success,Success (
+495,Kennedy,"June 25, 2025",06:31,F9B5,Axiom Mission 4,"~13,000 kg",LEO,Axiom Space,Success,Success (
+496,Cape Canaveral,"June 25, 2025",19:54,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+497,Cape Canaveral,"June 28, 2025",04:26,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+498,Vandenberg,"June 28, 2025",17:13,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+499,Kennedy,"July 1, 2025",21:04,F9B5,MTG-S1,"3,800 kg",GTO,EUMETSAT,Success,Success (
+500,Cape Canaveral,"July 2, 2025",06:28,F9B5,Starlink,"~15,500 kg",LEO,SpaceX,Success,Success (
+501,Cape Canaveral,"July 8, 2025",08:21,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+502,Cape Canaveral,"July 13, 2025",05:04,F9B5,Dror-1,"4,000 kg",GTO,IAI,Success,Success (
+503,Vandenberg,"July 16, 2025",02:05,F9B5,Starlink,"~14,950 kg",LEO,SpaceX,Success,Success (
+504,Cape Canaveral,"July 16, 2025",06:30,F9B5,KuiperSat,"~14,784 kg",LEO,Amazon,Success,Success (
+505,Vandenberg,"July 19, 2025",03:52,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+506,Cape Canaveral,"July 22, 2025",21:12,F9B5,O3b mPOWER,"3,400 kg",MEO,SES,Success,Success (
+507,Vandenberg,"July 23, 2025",18:13,F9B5,TRACERS,~920 kg,SSO,NASA,Success,Success (
+508,Cape Canaveral,"July 26, 2025",09:01,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+509,Vandenberg,"July 27, 2025",04:31,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+510,Cape Canaveral,"July 30, 2025",03:37,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+511,Vandenberg,"July 31, 2025",18:35,F9B5,Starlink,"~14,060 kg",SSO,SpaceX,Success,Success (
+512,Kennedy,"August 1, 2025",15:43,F9B5,Crew-11,"~13,000 kg",LEO,NASA,Success,Success (
+513,Cape Canaveral,"August 4, 2025",07:57,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+514,Cape Canaveral,"August 11, 2025",12:35,F9B5,KuiperSat,"~14,784 kg",LEO,Amazon,Success,Success (
+515,Vandenberg,"August 14, 2025",05:05,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+516,Cape Canaveral,"August 14, 2025",12:29,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+517,Vandenberg,"August 18, 2025",16:26,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+518,Kennedy,"August 22, 2025",03:50,F9B5‑[,USSF-36,"~4,990 kg",LEO,USSF,Success,Success (
+519,Vandenberg,"August 22, 2025",17:04,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+520,Cape Canaveral,"August 24, 2025",06:45,F9B5,SpaceX CRS-33,"2,300 kg",LEO,NASA,Success,Success (
+521,Vandenberg,"August 26, 2025",18:53,F9B5,NAOS,"~1,370 kg",SSO,Luxembourg Armed Forces,Success,Success (
+522,Cape Canaveral,"August 27, 2025",11:10,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+523,Kennedy,"August 28, 2025",08:12,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+524,Vandenberg,"August 30, 2025",04:59,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+525,Cape Canaveral,"August 31, 2025",11:49,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+526,Vandenberg,"September 3, 2025",03:51,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+527,Cape Canaveral,"September 3, 2025",11:56,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+528,Kennedy,"September 5, 2025",12:32,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+529,Vandenberg,"September 6, 2025",18:06,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+530,Vandenberg,"September 10, 2025",14:12,F9B5,SDA Tranche 1 Transport Layer B,U,Polar,SDA,Success,Success (
+531,Cape Canaveral,"September 12, 2025",01:56,F9B5,Nusantara Lima,"~7,800 kg",GTO,PT Pasifik Satelit Nusantara,Success,Success (
+532,Vandenberg,"September 13, 2025",17:55,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+533,Cape Canaveral,"September 14, 2025",22:11,F9B5,"CRS NG-23 (S.S. William ""Willie"" C. McCool)","5,000 kg",LEO,Northrop Grumman,Success,Success (
+534,Cape Canaveral,"September 18, 2025",09:30,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+535,Vandenberg,"September 19, 2025",16:31,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+536,Cape Canaveral,"September 21, 2025",10:53,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+537,Vandenberg,"September 22, 2025",17:38,F9B5,NROL-48,U,LEO,NRO,Success,Success (
+538,Kennedy,"September 24, 2025",11:30,F9B5,Interstellar Mapping and Acceleration Probe,"1,477 kg",,NASA,Success,Success (
+539,Cape Canaveral,"September 25, 2025",08:39,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+540,Vandenberg,"September 26, 2025",04:26,F9B5,Starlink,"~17,500 kg",SSO,SpaceX,Success,Success (
+541,Vandenberg,"September 29, 2025",02:04,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+542,Vandenberg,"October 3, 2025",14:06,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+543,Cape Canaveral,"October 7, 2025",06:46,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+544,Vandenberg,"October 8, 2025",03:54,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+545,Cape Canaveral,"October 14, 2025",01:58,F9B5,KuiperSat,"~14,784 kg",LEO,Amazon,Success,Success (
+546,Vandenberg,"October 15, 2025",23:06,F9B5,SDA Tranche 1 Transport Layer C,U,Polar,SDA,Success,Success (
+547,Cape Canaveral,"October 16, 2025",09:27,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+548,Cape Canaveral,"October 19, 2025",17:39,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+549,Vandenberg,"October 19, 2025",19:24,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+550,Vandenberg,"October 22, 2025",14:16,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+551,Cape Canaveral,"October 24, 2025",01:30,F9B5,Spainsat NG,"6,100 kg",GTO,Hisdesat,Success,No attempt
+552,Vandenberg,"October 25, 2025",14:20,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+553,Cape Canaveral,"October 26, 2025",15:00,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+554,Vandenberg,"October 28, 2025",00:43,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+555,Cape Canaveral,"October 29, 2025",16:35,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+556,Vandenberg,"October 31, 2025",20:41,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+557,Cape Canaveral,"November 2, 2025",05:09,F9B5,Bandwagon-4,U,LEO,Various,Success,Success (
+558,Cape Canaveral,"November 6, 2025",01:31,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+559,Vandenberg,"November 6, 2025",21:13,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+560,Kennedy,"November 9, 2025",08:10,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+561,Cape Canaveral,"November 11, 2025",03:21,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+562,Kennedy,"November 15, 2025",03:08,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+563,Cape Canaveral,"November 15, 2025",06:44,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+564,Vandenberg,"November 17, 2025",05:21,F9B5,Sentinel-6B,"1,440 kg",LEO,NASA,Success,Success (
+565,Cape Canaveral,"November 19, 2025",00:12,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+566,Kennedy,"November 21, 2025",03:39,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+567,Cape Canaveral,"November 22, 2025",07:53,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+568,Vandenberg,"November 23, 2025",08:48,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+569,Vandenberg,"November 28, 2025",18:44,F9B5,Transporter-15,U,SSO,Various,Success,Success (
+570,Kennedy,"December 1, 2025",07:44,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+571,Vandenberg,"December 2, 2025",05:28,F9B5,Starlink,"~15,525 kg",LEO,SpaceX,Success,Success (
+572,Cape Canaveral,"December 2, 2025",22:18,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+573,Vandenberg,"December 4, 2025",20:42,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+574,Vandenberg,"December 7, 2025",17:58,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+575,Kennedy,"December 8, 2025",22:26,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+576,Cape Canaveral,"December 9, 2025",19:16,F9B5,NROL-77,U,LEO,NRO,Success,Success (
+577,Vandenberg,"December 10, 2025",11:40,F9B5,Starlink,"~15,525 kg",LEO,SpaceX,Success,Success (
+578,Cape Canaveral,"December 11, 2025",22:01,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+579,Vandenberg,"December 14, 2025",05:49,F9B5,Starlink,"~15,525 kg",LEO,SpaceX,Success,Success (
+580,Cape Canaveral,"December 15, 2025",05:25,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+581,Kennedy,"December 17, 2025",13:42,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+582,Vandenberg,"December 17, 2025",15:27,F9B5,Starlink,"~15,525 kg",LEO,SpaceX,Success,Success (
+583,Vandenberg,"January 3, 2026",02:09,F9B5,CSG-3,"2,230 kg",SSO,ASI,Success,Success (
+584,Cape Canaveral,"January 4, 2026",06:48,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+585,Cape Canaveral,"January 9, 2026",21:41,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+586,Vandenberg,"January 11, 2026",13:44,F9B5,Twilight,325 kg,SSO,NASA,Success,Success (
+587,Cape Canaveral,"January 12, 2026",21:08,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+588,Cape Canaveral,"January 14, 2026",18:08,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+589,Vandenberg,"January 17, 2026",04:39,F9B5,NROL-105,U,LEO,NRO,Success,Success (
+590,Cape Canaveral,"January 18, 2026",23:31,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+591,Vandenberg,"January 22, 2026",05:47,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+592,Vandenberg,"January 25, 2026",17:30,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+593,Cape Canaveral,"January 28, 2026",04:53,F9B5,GPS III,"4,350 kg",MEO,USSF,Success,Success (
+594,Vandenberg,"January 29, 2026",17:53,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+595,Cape Canaveral,"January 30, 2026",07:22,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+596,Vandenberg,"February 2, 2026",15:47,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+597,Vandenberg,"February 7, 2026",20:58,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+598,Vandenberg,"February 11, 2026",17:11,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+599,Cape Canaveral,"February 13, 2026",10:15,F9B5,Crew-12,"~13,000 kg",LEO,NASA,Success,Success (
+600,Vandenberg,"February 15, 2026",01:59,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+601,Cape Canaveral,"February 16, 2026",07:59,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+602,Cape Canaveral,"February 20, 2026",01:41,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+603,Vandenberg,"February 21, 2026",09:04,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+604,Cape Canaveral,"February 22, 2026",03:47,F9B5,Starlink,"~16,100 kg",LEO,SpaceX,Success,Success (
+605,Cape Canaveral,"February 24, 2026",23:04,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+606,Vandenberg,"February 25, 2026",14:17,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+607,Cape Canaveral,"February 27, 2026",12:16,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+608,Vandenberg,"March 1, 2026",10:10,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+609,Cape Canaveral,"March 2, 2026",02:56,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+610,Cape Canaveral,"March 4, 2026",10:52,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+611,Vandenberg,"March 8, 2026",11:00,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+612,Cape Canaveral,"March 10, 2026",04:19,F9B5,EchoStar XXV,"6,800 kg",GTO,EchoStar,Success,Success (
+613,Vandenberg,"March 13, 2026",14:57,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+614,Cape Canaveral,"March 14, 2026",12:37,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+615,Vandenberg,"March 17, 2026",05:19,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+616,Cape Canaveral,"March 17, 2026",13:27,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+617,Cape Canaveral,"March 19, 2026",14:20,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+618,Vandenberg,"March 20, 2026",21:51,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+619,Cape Canaveral,"March 22, 2026",14:47,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+620,Vandenberg,"March 26, 2026",23:03,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+621,Vandenberg,"March 30, 2026",11:02,F9B5,Transporter-16,U,SSO,Various,Success,Success (
+622,Cape Canaveral,"March 30, 2026",21:15,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+623,Cape Canaveral,"April 2, 2026",11:55,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+624,Vandenberg,"April 7, 2026",02:50,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+625,Vandenberg,"April 11, 2026",05:04,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+626,Cape Canaveral,"April 11, 2026",11:41,F9B5,Cygnus NG-24,"5,000 kg",LEO,Northrop Grumman,Success,Success (
+627,Cape Canaveral,"April 14, 2026",09:33,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+628,Vandenberg,"April 15, 2026",04:29,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+629,Vandenberg,"April 19, 2026",16:03,F9B5,Starlink,"~14,375 kg",LEO,SpaceX,Success,Success (
+630,Cape Canaveral,"April 21, 2026",06:53,F9B5,GPS III,"4,350 kg",MEO,USSF,Success,Success (
+631,Vandenberg,"April 23, 2026",03:23,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+632,Vandenberg,"April 26, 2026",14:37,F9B5,Starlink,"~14,375 kg",SSO,SpaceX,Success,Success (
+633,Vandenberg,"April 30, 2026",02:42,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+634,Cape Canaveral,"May 1, 2026",18:06,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+635,Vandenberg,"May 3, 2026",07:00,F9B5,CAS500,500 kg,SSO,Korea Aerospace Industries,Success,Success (
+636,Vandenberg,"May 6, 2026",03:59,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+637,Vandenberg,"May 12, 2026",02:13,F9B5,NROL-172,U,LEO,NRO,Success,Success (
+638,Cape Canaveral,"May 15, 2026",22:05,F9B5,SpaceX CRS-34,"2,948 kg",LEO,NASA,Success,Success (
+639,Vandenberg,"May 20, 2026",02:46,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+640,Cape Canaveral,"May 21, 2026",10:04,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+641,Cape Canaveral,"May 25, 2026",11:48,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+642,Vandenberg,"May 26, 2026",14:50,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+643,Cape Canaveral,"May 29, 2026",12:57,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+644,Vandenberg,"May 30, 2026",15:25,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+645,Vandenberg,"June 3, 2026",15:40,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+646,Cape Canaveral,"June 4, 2026",10:26,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+647,Vandenberg,"June 7, 2026",04:24,F9B5,Starlink,"~12,075 kg",SSO,SpaceX,Success,Success (
+648,Cape Canaveral,"June 8, 2026",10:13,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+649,Vandenberg,"June 11, 2026",15:05,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+650,Cape Canaveral,"June 12, 2026",12:37,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+651,Vandenberg,"June 15, 2026",15:34,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+652,Cape Canaveral,"June 17, 2026",06:39,F9B5,BlueBird,"~13,500 kg",LEO,AST SpaceMobile,Success,Success (
+653,Vandenberg,"June 19, 2026",08:50,F9B5,NROL-179,C,LEO,NRO,Success,Success (
+654,Vandenberg,"June 21, 2026",16:39,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+655,Cape Canaveral,"June 23, 2026",10:53,F9B5,SpaceX Starfall,U,LEO,SpaceX,Success,Success (
+656,Vandenberg,"June 25, 2026",03:30,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+657,Vandenberg,"June 28, 2026",16:09,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+658,Cape Canaveral,"June 29, 2026",02:25,F9B5,SXM-11,"7,000 kg",GTO,SiriusXM,Success,Success (
+659,Vandenberg,"July 2, 2026",02:58,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+660,Cape Canaveral,"July 5, 2026",10:50,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+661,Vandenberg,"July 7, 2026",07:12,F9B5,Transporter-17,U,SSO,Various,Success,Success (
+662,Cape Canaveral,"July 9, 2026",09:25,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+663,Vandenberg,"July 11, 2026",03:01,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+664,Vandenberg,"July 14, 2026",01:28,F9B5,Starlink,"~15,525 kg",LEO,SpaceX,Success,Success (
+665,Cape Canaveral,"July 14, 2026",09:10,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+666,Vandenberg,"July 16, 2026",20:32,F9B5,SDA Tranche 1 Transport Layer E,U,Polar,SDA,Success,Success (
+667,Vandenberg,"July 21, 2026",14:49,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+668,Cape Canaveral,"July 21, 2026",21:15,F9B5,Mission Robotic Vehicle,"~4,200 kg",GTO,Northrop Grumman,Success,No attempt
+669,Vandenberg,"July 25, 2026",15:51,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+670,Cape Canaveral,"July 30, 2026",07:10,F9B5,NROL-95,U,LEO,NRO,Success,Success (
+671,Vandenberg,"August 1, 2026",03:08,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+672,Vandenberg,"August 4, 2026",17:05,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+673,Cape Canaveral,"August 5, 2026",07:49,F9B5,BlueBird,"~13,500 kg",LEO,AST SpaceMobile,Success,Success (
+674,Vandenberg,"August 8, 2026",16:35,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+675,Cape Canaveral,"August 11, 2026",15:58,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+676,Vandenberg,"August 12, 2026",04:46,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+677,Cape Canaveral,"August 16, 2026",01:12,F9B5,Globalstar,"4,000 kg",LEO,Globalstar,Success,Success (
+678,Vandenberg,"August 16, 2026",01:50,F9B5,Starshield,U,LEO,USSF,Success,Success (
+679,Vandenberg,"August 19, 2026",04:01,F9B5,Starlink,"~13,800 kg",SSO,SpaceX,Success,Success (
+680,Cape Canaveral,"August 21, 2026",15:14,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
+681,Vandenberg,"August 22, 2026",07:25,F9B5,Starlink,"~15,525 kg",LEO,SpaceX,Success,Success (
+682,Cape Canaveral,"August 25, 2026",09:33,F9B5,Starlink,"~16,675 kg",LEO,SpaceX,Success,Success (
